@@ -7,3 +7,4 @@ pendiente: aprender usar terminal de linux, y habilitar una pc Hp Proliant ML110
 Añadi nuevo codigo al desafio product_manager, corre pero me sale siempre en la terminal "code is repeat" 
 
 27NOV22
+Se realizo archivo nuevo desafio_2_filesystem.js, con la finalidad de simular el proyecto del desafio nro. 2.
